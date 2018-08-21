@@ -1,9 +1,12 @@
 {
 	"author": "Linda Kovacs",
-	"name": "fcc-learn-npm-package-json",
-	"description": "A project that does something awesome",
+  	"name": "fcc-learn-npm-package-json",
+  	"description": "A project that does something awesome",
+	"keywords": [ "freecodecamp", "glitch project", "npm" ],
+	"license": "MIT",
+	"version": "1.2",
 	"dependencies": {
-		"express": "^4.14.0"
+    		"express": "^4.16.3"
 	},
 	"main": "server.js",
 	"scripts": {
